@@ -1,0 +1,5 @@
+requerimentos
+
+
+pip3 install flask-mysql
+pip3 install pymysql
